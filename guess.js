@@ -12,7 +12,7 @@ let userGuessedRight = false //setting variable to false boolean
 
 // while(true) { //just playing around, constantly generates random nums
    // gives a random num from 1-10 and always rounds up
-  let NumberChosen = Math.ceil(Math.random() * 10)
+  let NumberChosen = Math.ceil(Math.random() * 10) //change * _ to change max number
   // console.log(NumberChosen)
 // }
 
